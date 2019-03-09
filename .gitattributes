@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.ajax linguist-vendored=false
+examples/* linguist-vendored
+* linguist-vendored
+*.ajax linguist-vendored=false
