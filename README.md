@@ -22,6 +22,8 @@ Example - xhr.open('GET/POST','url');
 
 Example - xhr.send();
 
+Below is the output of the code displaying Rooms and Employees
+
 
 
 
